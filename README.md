@@ -1,6 +1,6 @@
 # Flutter audio demo
 
-A Flutter project to say hello.
+A Flutter project to say hello and listen to your response.
 
 ## How to run
 
