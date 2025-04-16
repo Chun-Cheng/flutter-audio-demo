@@ -1,6 +1,20 @@
-# myapp
+# Flutter audio demo
 
-A new Flutter project.
+A Flutter project to say hello.
+
+## How to run
+
+Install packages
+
+```sh
+flutter pub get
+```
+
+Export to APK file
+
+```sh
+flutter build apk
+```
 
 ## Getting Started
 
